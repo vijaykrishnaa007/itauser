@@ -1,0 +1,218 @@
+{
+  "project_info": {
+    "project_number": "22869344144",
+    "firebase_url": "https://informationtechnologyevent.firebaseio.com",
+    "project_id": "informationtechnologyevent",
+    "storage_bucket": "informationtechnologyevent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22869344144:android:2b8a193d9af03858",
+        "android_client_info": {
+          "package_name": "com.example.localuser.invadurz_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22869344144-ctp5un292apss33p1duj33v3u42ondad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNAptXjblr3Wvkmti_EX8QC3XWKZCBk0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22869344144:android:e52830f748aa3b12",
+        "android_client_info": {
+          "package_name": "erfger.com.localbuy.com.informationtechnologyevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22869344144-mg4e8fr9kiftnfms3d5kbb31v7ba63mh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "erfger.com.localbuy.com.informationtechnologyevent",
+            "certificate_hash": "9421631ee1264724911d6a2fb0191b27b91a7222"
+          }
+        },
+        {
+          "client_id": "22869344144-ctp5un292apss33p1duj33v3u42ondad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNAptXjblr3Wvkmti_EX8QC3XWKZCBk0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22869344144-ctp5un292apss33p1duj33v3u42ondad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22869344144:android:62b52f3b36e1fefe",
+        "android_client_info": {
+          "package_name": "itauser.com.itaevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22869344144-gthf3p8sd8jntgu6q88aeq32fukstibi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itauser.com.itaevent",
+            "certificate_hash": "9421631ee1264724911d6a2fb0191b27b91a7222"
+          }
+        },
+        {
+          "client_id": "22869344144-ctp5un292apss33p1duj33v3u42ondad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNAptXjblr3Wvkmti_EX8QC3XWKZCBk0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22869344144-ctp5un292apss33p1duj33v3u42ondad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22869344144:android:e57b833edfd1cc41",
+        "android_client_info": {
+          "package_name": "itauser.com.itauser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22869344144-94p6njfvtpjn2r8d7cjv66nk8vs18pfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itauser.com.itauser",
+            "certificate_hash": "9421631ee1264724911d6a2fb0191b27b91a7222"
+          }
+        },
+        {
+          "client_id": "22869344144-ctp5un292apss33p1duj33v3u42ondad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNAptXjblr3Wvkmti_EX8QC3XWKZCBk0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22869344144-ctp5un292apss33p1duj33v3u42ondad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22869344144:android:1f1df720691620eb",
+        "android_client_info": {
+          "package_name": "itauser.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22869344144-4grqncpb28k2nlclroinaedva8n0oba2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "itauser.com.myapplication",
+            "certificate_hash": "9421631ee1264724911d6a2fb0191b27b91a7222"
+          }
+        },
+        {
+          "client_id": "22869344144-ctp5un292apss33p1duj33v3u42ondad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNAptXjblr3Wvkmti_EX8QC3XWKZCBk0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22869344144-ctp5un292apss33p1duj33v3u42ondad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

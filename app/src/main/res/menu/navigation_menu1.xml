@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_signin"
+        android:icon="@drawable/baseline_input_black_18dp"
+        android:title="Sign In"/>
+
+    <item android:id="@+id/nav_about"
+        android:icon="@drawable/baseline_language_black_18dp"
+        android:title="About" />
+
+    <item android:id="@+id/nav_contact"
+        android:icon="@drawable/baseline_call_black_18dp"
+        android:title="Contact Us" />
+</menu>

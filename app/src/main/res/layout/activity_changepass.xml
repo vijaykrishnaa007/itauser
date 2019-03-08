@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".changepass">
+    <EditText
+        android:id="@+id/changepassid11"
+        android:layout_width="match_parent"
+        android:layout_height="77dp"
+        android:layout_marginTop="50dp"
+        android:ems="10"
+        android:hint="New password"
+        android:inputType="textPassword"
+        />
+
+    <EditText
+        android:id="@+id/changepassid12"
+        android:layout_width="match_parent"
+        android:layout_height="77dp"
+        android:layout_marginTop="30dp"
+        android:hint="Confirm password"
+        android:inputType="textPassword"
+        />
+
+    <Button
+        android:id="@+id/changeid1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:gravity="center"
+        android:layout_marginTop="30dp"
+        android:text="CHANGE"
+         />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="100dp"
+
+        app:srcCompat="@drawable/psg_logo_2" />
+
+</LinearLayout>
